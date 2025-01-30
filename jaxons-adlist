@@ -1,0 +1,8 @@
+# Personal Adlist to use on Pi-hole and DNSNet on home and public internet connections
+
+# To prevent doh from xfinity
+doh.xfinity.com
+melee.sed.dh.comcast.net
+
+# Block undesired social medias
+www.instagram.com
