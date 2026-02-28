@@ -6,5 +6,6 @@
 
 # Block undesired social medias
 0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
 0.0.0.0 reddit.com
 0.0.0.0 cdninstagram.com
