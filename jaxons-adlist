@@ -5,10 +5,133 @@
 0.0.0.0 melee.sed.dh.comcast.net
 
 # Block undesired social medias
+
+# Facebook / Meta
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 web.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 facebook.net
+0.0.0.0 fbcdn.net
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
+
+# Instagram
 0.0.0.0 instagram.com
 0.0.0.0 www.instagram.com
+0.0.0.0 m.instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 www.cdninstagram.com
+
+# Threads (Meta)
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
+
+# Reddit
 0.0.0.0 reddit.com
 0.0.0.0 www.reddit.com
-0.0.0.0 cdninstagram.com
-0.0.0.0 www.facebook.com
-0.0.0.0 facebook.com
+0.0.0.0 old.reddit.com
+0.0.0.0 new.reddit.com
+0.0.0.0 i.reddit.com
+0.0.0.0 api.reddit.com
+0.0.0.0 redd.it
+0.0.0.0 redditmedia.com
+0.0.0.0 www.redditmedia.com
+0.0.0.0 redditstatic.com
+0.0.0.0 www.redditstatic.com
+0.0.0.0 reddit.app.link
+
+# X / Twitter
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 api.twitter.com
+0.0.0.0 x.com
+0.0.0.0 www.x.com
+0.0.0.0 t.co
+0.0.0.0 twimg.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 abs.twimg.com
+
+# TikTok
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 vm.tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 www.tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 musically.com
+0.0.0.0 www.musically.com
+
+# Snapchat
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 sc-cdn.net
+0.0.0.0 feelinsonice-hrd.appspot.com
+
+# YouTube (Google)
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 ytimg.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+
+# Pinterest
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 m.pinterest.com
+0.0.0.0 pinterest.co.uk
+0.0.0.0 pinimg.com
+0.0.0.0 i.pinimg.com
+
+# Tumblr
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+0.0.0.0 assets.tumblr.com
+
+# Discord
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 www.discordapp.com
+0.0.0.0 discord.gg
+0.0.0.0 discordcdn.com
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 media.discordapp.net
+
+# Telegram
+0.0.0.0 telegram.org
+0.0.0.0 www.telegram.org
+0.0.0.0 web.telegram.org
+0.0.0.0 t.me
+
+# Twitch
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 m.twitch.tv
+0.0.0.0 twitchapps.com
+0.0.0.0 jtvnw.net
+0.0.0.0 twitchsvc.net
+0.0.0.0 static.twitchsvc.net
+
+# Mastodon (flagship instance)
+0.0.0.0 mastodon.social
+0.0.0.0 www.mastodon.social
+
+# BeReal
+0.0.0.0 bereal.com
+0.0.0.0 www.bereal.com
+
+# Kick (streaming)
+0.0.0.0 kick.com
+0.0.0.0 www.kick.com
+
+# Rumble
+0.0.0.0 rumble.com
+0.0.0.0 www.rumble.com
